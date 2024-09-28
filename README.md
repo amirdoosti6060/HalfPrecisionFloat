@@ -3,7 +3,7 @@
 ## Introduction
 This application provide some tools to understand **Half-Precision Floating Point** better.  
 I've also written an article to in my LinkedIn to explaint the theory behide Half-Precision floating points in the following link:  
-https://www.linkedin.com/pulse/cancellationtoken-c-amir-doosti-vmjjf    
+https://www.linkedin.com/pulse/half-precision-floating-point-c-amir-doosti-mjhnf    
 
 ## Structure of soution
 The solution contains a Console App project which are written in Visual Studio. 
