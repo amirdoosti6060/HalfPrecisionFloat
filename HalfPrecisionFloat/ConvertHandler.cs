@@ -11,9 +11,7 @@
 
         public void Execute(params string[] arguments)
         {
-            double p;
-            p = double.Parse(arguments[0]);
-            _halfPrecision.GetHalf(p);
+            _halfPrecision.GetHalf(arguments[0]);
         }
     }
 }
